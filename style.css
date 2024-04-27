@@ -144,9 +144,6 @@ color: white;
     /* line-height: 2.5rem; */
     /* letter-spacing: .05rem; */
     text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 20px;
     
 }
@@ -467,7 +464,7 @@ filter: brightness(0);
     #about .about .col-left .about-img::ater{
         left: -45px;
         top:34px;
-        height: 98%;
+        height:auto;
         border:10px solid crimson;
         
     }
