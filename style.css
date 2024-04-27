@@ -39,7 +39,7 @@ p{
     line-height: 1.9rem; 
 }
 #hero{
-    background-image: url(../images/mogy.jpg);
+    background-image: url(./images/mogy.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -159,7 +159,7 @@ color: white;
     flex-direction: column;
     padding: 30px;
     border-radius: 20px;
-    background-image: url(../images/1.jpg);
+    background-image: url(./images/1.jpg);
     background-size: cover;
     margin: 10px 5%;
     position: relative;
